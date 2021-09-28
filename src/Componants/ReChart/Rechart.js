@@ -1,6 +1,6 @@
 import { Tooltip } from '@mui/material';
 import React from 'react';
-import { Area, AreaChart, CartesianGrid, Legend, Line, LineChart, ResponsiveContainer, XAxis, YAxis } from 'recharts';
+import { CartesianGrid, Legend, Line, LineChart, XAxis, YAxis } from 'recharts';
 import './Rechart.css'
 
 const data = [
